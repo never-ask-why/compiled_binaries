@@ -1,0 +1,23 @@
+﻿  DCOMReflection.cpp
+  IStorageTrigger.cpp
+  IUnknownObj.cpp
+  LocalPotato.cpp
+D:\Virtuval Box Share\Local_Potato\LocalPotato-master\LocalPotato-master\SMBClient.h(30,2): warning C4091: 'typedef ': ignored on left of 'usmb2_header' when no variable is declared
+D:\Virtuval Box Share\Local_Potato\LocalPotato-master\LocalPotato-master\SMBClient.h(44,2): warning C4091: 'typedef ': ignored on left of 'usmb2_data' when no variable is declared
+  PotatoTrigger.cpp
+  SMBClient.cpp
+D:\Virtuval Box Share\Local_Potato\LocalPotato-master\LocalPotato-master\SMBClient.h(30,2): warning C4091: 'typedef ': ignored on left of 'usmb2_header' when no variable is declared
+D:\Virtuval Box Share\Local_Potato\LocalPotato-master\LocalPotato-master\SMBClient.h(44,2): warning C4091: 'typedef ': ignored on left of 'usmb2_data' when no variable is declared
+D:\Virtuval Box Share\Local_Potato\LocalPotato-master\LocalPotato-master\SMBClient.cpp(283,17): warning C4244: '=': conversion from 'DWORD' to 'unsigned short', possible loss of data
+D:\Virtuval Box Share\Local_Potato\LocalPotato-master\LocalPotato-master\SMBClient.cpp(382,17): warning C4244: '=': conversion from 'DWORD' to 'unsigned short', possible loss of data
+D:\Virtuval Box Share\Local_Potato\LocalPotato-master\LocalPotato-master\SMBClient.cpp(419,37): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Virtuval Box Share\Local_Potato\LocalPotato-master\LocalPotato-master\SMBClient.cpp(438,51): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+D:\Virtuval Box Share\Local_Potato\LocalPotato-master\LocalPotato-master\SMBClient.cpp(444,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Virtuval Box Share\Local_Potato\LocalPotato-master\LocalPotato-master\SMBClient.cpp(497,46): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Virtuval Box Share\Local_Potato\LocalPotato-master\LocalPotato-master\SMBClient.cpp(501,45): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+D:\Virtuval Box Share\Local_Potato\LocalPotato-master\LocalPotato-master\SMBClient.cpp(524,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Virtuval Box Share\Local_Potato\LocalPotato-master\LocalPotato-master\SMBClient.cpp(588,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Virtuval Box Share\Local_Potato\LocalPotato-master\LocalPotato-master\SMBClient.cpp(590,57): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+D:\Virtuval Box Share\Local_Potato\LocalPotato-master\LocalPotato-master\SMBClient.cpp(599,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  LocalPotato.vcxproj -> D:\Virtuval Box Share\Local_Potato\LocalPotato-master\LocalPotato-master\x64\Debug\LocalPotato.exe

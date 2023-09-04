@@ -1,0 +1,10 @@
+﻿  main.c
+D:\Virtuval Box Share\Local_Potato\SprintCSP\SprintCSP\main.c(111,5): warning C4013: 'StopDependentServices' undefined; assuming extern returning int
+D:\Virtuval Box Share\Local_Potato\SprintCSP\SprintCSP\main.c(25,25): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+D:\Virtuval Box Share\Local_Potato\SprintCSP\SprintCSP\main.c(173,9): warning C4033: 'StopDependentServices' must return a value
+D:\Virtuval Box Share\Local_Potato\SprintCSP\SprintCSP\main.c(187,9): warning C4033: 'StopDependentServices' must return a value
+D:\Virtuval Box Share\Local_Potato\SprintCSP\SprintCSP\main.c(163,25): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+D:\Virtuval Box Share\Local_Potato\SprintCSP\SprintCSP\main.c(267): warning C4715: 'StopDependentServices': not all control paths return a value
+  LINK : D:\Virtuval Box Share\Local_Potato\SprintCSP\x64\Debug\SprintCSP.dll not found or not built by the last incremental link; performing full link
+     Creating library D:\Virtuval Box Share\Local_Potato\SprintCSP\x64\Debug\SprintCSP.lib and object D:\Virtuval Box Share\Local_Potato\SprintCSP\x64\Debug\SprintCSP.exp
+  SprintCSP.vcxproj -> D:\Virtuval Box Share\Local_Potato\SprintCSP\x64\Debug\SprintCSP.dll

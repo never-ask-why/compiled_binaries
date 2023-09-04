@@ -1,0 +1,12 @@
+
+[4796] 03-25 14:53:01:915: RasTapiCallback: changing state of VPN4-1. 5 -> 1
+[4796] 03-25 14:53:01:930: RasTapiCallback: lineDeallocateCall for VPN4-1,hcall = 0x120002
+[4796] 14:53:01: SyncDriverRequest: Oid(CloseCall), devID(3), reqID(23), hCall(0000000000000001)
+[3372] 03-25 14:53:01:930: PortTestSignalState: DeviceState = 0
+[9116] 03-25 14:53:01:930: PortClose: VPN4-1
+[9116] 03-25 14:53:01:930: No more ports opened for dialout on this line
+[9116] 03-25 14:53:01:930: Closing line
+[9116] 14:53:01: RasLineClose: RasTapi line handle (0000000000100000). Reference count (0x1)
+[9116] 14:53:01: SyncDriverRequest: Oid(Close), devID(3), reqID(24), hLine(0000000000000003)
+[9116] 03-25 14:53:01:930: PortClose: Changing state for  VPN4-1 from 1 -> 0
+[9116] 03-25 14:53:01:930:  
