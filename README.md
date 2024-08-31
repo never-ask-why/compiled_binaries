@@ -1,2 +1,2 @@
-# compiled_binaries for oscp
+# Compiled_binaries
 Enjoy Hacking
